@@ -15,6 +15,7 @@
  *
  *   See <http://www.opensource.org/licenses/bsd-license>
  */
+// test for github
 #include "facerec.hpp"
 #include "opencv2/core/core.hpp"
 #include "opencv2/highgui/highgui.hpp"
